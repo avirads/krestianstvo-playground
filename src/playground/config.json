@@ -1,4 +1,4 @@
 {
-    "defaultReflectorHost": "http://localhost:3001",
+    "defaultReflectorHost": "https://lcs-reflector.onrender.com/",
     "devMode": false
 }
